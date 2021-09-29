@@ -76,7 +76,7 @@ class _MyGameState extends State<MyGame> {
       ),
     );
   }
-
+//"Adasdasdasdasdasd
   String _char = "X";
 
   Container bulidElement(int row, int col) {
